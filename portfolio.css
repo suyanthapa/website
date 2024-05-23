@@ -250,6 +250,9 @@ body{
     margin-bottom: 4rem;
     display: flex;
     justify-content: center;
+    font-weight: 900px;
+    font-size: 40px;
+    color: #00abf0;
 }
 .learning-container{
     display: grid;
